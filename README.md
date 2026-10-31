@@ -6,9 +6,9 @@ Programa en Python que simula cinco problemas de una línea de ensamblaje automo
 
 ##  Integrantes
 * Marín Pérez Daniela - *Ingeniería en Computación*
-* (nombre) - *Ingeniería Eléctrica*
-* (nombre) - *Ingeniería Electrónica*
-* (nombre) - *Ingeniería Mecánica*
+* Karen Joselin Barrera Castañeda  - *Ingeniería Electrónica electrónica*
+* Emilio Alexander Chávez Suárez - *Ingeniería Electrónica electrónica*
+* Valente Agama José Ángel - *Ingeniería Mecánica*
 
 ##  Contenido del Repositorio
 * `codigo/ensamblaje_automotriz.py` — Programa principal.
