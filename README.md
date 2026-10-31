@@ -6,8 +6,8 @@ Programa en Python que simula cinco problemas de una línea de ensamblaje automo
 
 ##  Integrantes
 * Marín Pérez Daniela - *Ingeniería en Computación*
-* Karen Joselin Barrera Castañeda  - *Ingeniería Electrónica electrónica*
-* Emilio Alexander Chávez Suárez - *Ingeniería Electrónica electrónica*
+* Karen Joselin Barrera Castañeda  - *Ingeniería Eléctrica Electrónica*
+* Emilio Alexander Chávez Suárez - *Ingeniería Eléctrica Electrónica*
 * Valente Agama José Ángel - *Ingeniería Mecánica*
 
 ##  Contenido del Repositorio
